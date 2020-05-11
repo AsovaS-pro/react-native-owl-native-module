@@ -11,7 +11,3 @@
 ## Usage
 ```javascript
 import MyNativeModule from 'react-native-owl-native-module';
-
-// TODO: What to do with the module?
-MyNativeModule;
-```
