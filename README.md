@@ -10,4 +10,9 @@
 
 ## Usage
 ```javascript
-import MyNativeModule from 'react-native-owl-native-module';
+import OwlNativeModule from 'react-native-owl-native-module';
+
+OwlNativeModule.sqrNumber(someNum, (err, res) => {
+      if (res) { alert(res); }
+      if (err) { alert(err); }
+    });
