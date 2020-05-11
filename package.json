@@ -1,6 +1,6 @@
 {
-  "name": "react-native-my-native-module",
-  "title": "React Native My Native Module",
+  "name": "react-native-owl-native-module",
+  "title": "React Native Owl Native Module",
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-my-native-module.git",
-    "baseUrl": "https://github.com/github_account/react-native-my-native-module"
+    "url": "git+https://github.com/github_account/react-native-owl-native-module.git",
+    "baseUrl": "https://github.com/github_account/react-native-owl-native-module"
   },
   "keywords": [
     "react-native"
